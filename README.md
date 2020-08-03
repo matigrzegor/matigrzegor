@@ -3,8 +3,8 @@
 I am a backend developer. I’m working in Ruby and Ruby on Rails.  
   
 #### My personal projects:
-- [CMS Blog](https://github.com/matigrzegor/cms-blog) - This application is used to manage blog content. You can create, edit and delete posts. In the administration panel, you can generate tokens needed to register new authors. The application allows you to manage your profile.
-- [Sport App](https://github.com/matigrzegor/sport-api) - Application to create training and nutrition plans. Analysis of data collected from training. Creating a board with notes.
+- [CMS Blog](https://github.com/matigrzegor/cms-blog) - A blog website and a cms to manage blog content. You can create, edit and delete posts. In the administration panel, you can generate tokens needed to register new authors. The application allows you to manage your profile.
+- [Sport App](https://github.com/matigrzegor/sport-api) - Application to create training and nutrition plans. Analysis of data collected from training. Creating a board with notes. You can invite users and send them plans. A tool to measure progress and create charts.
 
 #### To know me more:
 - [my website](https://mateuszgrzk.com/)
